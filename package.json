@@ -1,0 +1,19 @@
+{
+  "name": "ethereum-privkey2json",
+  "version": "0.0.1",
+  "description": "Ethereum private-key to JSON file converter",
+  "main": "index.js",
+  "keywords": [
+    "ethereum",
+    "private",
+    "key",
+    "converter",
+    "json"
+  ],
+  "author": "Nicola Orritos",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "ethereumjs-wallet": "^0.6.2"
+  }
+}
