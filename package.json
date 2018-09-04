@@ -1,6 +1,6 @@
 {
   "name": "ethereum-privkey2json",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Ethereum private-key to JSON keystore file converter",
   "private": false,
   "repository": {
