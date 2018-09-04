@@ -9,7 +9,7 @@ Generates a JSON keystore file from a private key.
 
 ## Usage
 
-`$ ethereum-privkey2json --key a1b2c3d4e5f6g7h8i9l0m --password mysuperstrongpassword
+`$ privkey2json --key a1b2c3d4e5f6g7h8i9l0m --password mysuperstrongpassword
 Saved to "UTC--2018-09-04T09-08-19.649Z--123456789wxyz000000000"`
 
 Result:
